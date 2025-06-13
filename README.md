@@ -1,5 +1,5 @@
 
-# Library Borrowing Management System
+# Library Management System
 
 **Course:** Data Structures and Algorithmic Problem Solving  
 **Assignment:** 1 – Linked Lists
